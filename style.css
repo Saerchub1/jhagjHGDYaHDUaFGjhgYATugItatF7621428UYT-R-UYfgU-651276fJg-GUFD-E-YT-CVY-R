@@ -1,5 +1,7 @@
 body {
-    font-size: 15pt;
+  font-size: 15pt;
+  background: linear-gradient(lightblue, blue);
+  background-repeat: no-repeat;
 }
 
 .container{
