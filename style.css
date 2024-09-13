@@ -1,6 +1,5 @@
-body {
-  font-size: 15pt;
-  background: linear-gradient(lightblue, blue);
+body{
+  background-color: lightblue;
   background-repeat: no-repeat;
 }
 
